@@ -72,18 +72,4 @@ This project focuses on analyzing e‑commerce sales data to uncover key busines
 
 ---
 
-## 🔗 Repository Naming Convention
 
-```
-FUTURE_DS_01
-```
-
----
-
-## 📣 Internship Requirement
-
-After completing this task, a **LinkedIn post** summarizing the project, learnings, and visuals is mandatory.
-
----
-
-**Author:** Intern – Future Interns
